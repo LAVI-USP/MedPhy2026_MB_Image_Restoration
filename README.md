@@ -380,7 +380,7 @@ The code is intended for research purposes and is not designed for clinical diag
 If you use this repository or the implemented methods in your research, please cite the associated publication:
 
 ```text
-BrandãoRF, Borges LR, SabinoSMPS, e tal. Model-basedimage restorationtargetinghigher-dosedigital mammography: Impact on radiologists’ detection of clustered microcalcifications. MedPhys. 2026;e70739.https://doi.org/10.1002/mp.70739
+Brandão RF, Borges LR, Sabino SMPS, et al. Model-based image restoration targeting higher-dose digital mammography: Impact on radiologists’ detection of clustered microcalcifications. MedPhys. 2026;e70739.https://doi.org/10.1002/mp.70739
 ```
 
 ---

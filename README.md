@@ -1,4 +1,4 @@
-# Image Restoration in Digital Mammography Using VSTQ and Spatially Correlated Noise Modeling
+# Model-based image restoration targeting higher-dose digital mammography: Impact on radiologists’detection of clustered microcalcifications
 
 MATLAB implementation of a framework for noise modeling, variance stabilization, image restoration, and human observer evaluation in digital mammography.
 
